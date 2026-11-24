@@ -1,0 +1,10 @@
+:root { color-scheme: dark; font-family: "Avenir Next", "Segoe UI", system-ui, sans-serif; background: #131518; color: #f5f2eb; }
+body { margin: 0; }
+main { max-width: 680px; margin: 0 auto; padding: 48px 24px 64px; line-height: 1.6; }
+h1 { display: flex; align-items: center; gap: 12px; font-size: 2rem; letter-spacing: -.03em; margin: 0 0 8px; }
+h2 { font-size: 1.15rem; margin: 32px 0 8px; }
+.mark { display: inline-grid; place-items: center; width: 40px; height: 40px; border-radius: 10px; background: #ffc776; color: #251b10; font-size: 1rem; }
+.lead { font-size: 1.15rem; color: #d4d3d6; }
+.note { color: #aeafb5; font-size: .9rem; }
+a { color: #ffc776; }
+code { background: #1d2024; padding: 1px 6px; border-radius: 5px; }
